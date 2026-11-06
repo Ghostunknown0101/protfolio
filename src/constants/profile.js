@@ -5,7 +5,7 @@ export const profile = {
   name: "Saleh Ghaznavi",
   firstName: "Saleh",
   initials: "SA",
-  photo: "/images/profile/Salehphoto.webp",
+  photo: "/images/profile/saleh.webp",
   role: "Software Engineer",
   headline: "Software Engineer | Full-stack & Product Development",
   location: "Tehran, Iran",
