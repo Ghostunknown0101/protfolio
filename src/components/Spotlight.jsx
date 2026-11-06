@@ -90,7 +90,7 @@ const buildIndex = (locale, t) => {
       id: "act-resume",
       group: t("spotlight.actions"),
       title: t("action.downloadResume"),
-      subtitle: "reza-abdollahi-resume.pdf",
+      subtitle: "Saleh-Ghaznavi-resume.pdf",
       glyph: Download,
       terms: `${bothLanguages("action.downloadResume")} download resume cv pdf`,
       run: () => {

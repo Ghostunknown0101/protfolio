@@ -23,7 +23,7 @@ export const sendMessage = async ({ name, email, subject, message, topic }) => {
       // Formspree reads these; others ignore them.
       _replyto: email,
       _subject: subject,
-      ...(ACCESS_KEY && { access_key: ACCESS_KEY, from_name: "srezadev.ir" }),
+      ...(ACCESS_KEY && { access_key: ACCESS_KEY, from_name: "sSalehdev.ir" }),
     }),
   });
   const data = await res.json().catch(() => ({}));

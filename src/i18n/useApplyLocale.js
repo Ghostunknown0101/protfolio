@@ -3,9 +3,9 @@ import { useLocale } from "./locale";
 
 const META = {
   en: {
-    title: "Reza Abdollahi · Software Engineer",
+    title: "Saleh Ghaznavi · Software Engineer",
     description:
-      "Reza Abdollahi is a full-stack software engineer in Tehran and founder of NextApps, building practical, scalable products with React, Next.js, TypeScript and Node.js. Explore projects like Dofixo and Finora in a macOS-style portfolio.",
+      "Saleh Ghaznavi is a full-stack software engineer in Tehran and founder of NextApps, building practical, scalable products with React, Next.js, TypeScript and Node.js. Explore projects like Dofixo and Finora in a macOS-style portfolio.",
   },
   fa: {
     title: "صالح غزنوی · مهندس نرم‌افزار",

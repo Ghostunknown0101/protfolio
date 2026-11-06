@@ -116,7 +116,7 @@ const Terminal = () => {
       id: ++blockSeq,
       lines: [
         line(span(`Last login: ${new Date().toString().slice(0, 21)} on ttys000`, "t-muted")),
-        line(span("Welcome to Reza's terminal: a tiny zsh running inside this portfolio.", "t-h1")),
+        line(span("Welcome to Saleh's terminal: a tiny zsh running inside this portfolio.", "t-h1")),
         line(
           span("Try ", "t-muted"),
           ...["help", "ls", "cd projects", "cat about.md", "open dofixo", "hire"].flatMap((c, i) => [

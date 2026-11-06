@@ -27,7 +27,7 @@ const Contact = () => {
         <div className="contact-hero">
           <img
             className="contact-avatar"
-            src="/images/profile/reza-256.webp"
+            src="/images/profile/Saleh-256.webp"
             alt={profile.name}
             width="96"
             height="96"
@@ -88,7 +88,7 @@ const Contact = () => {
             <dt>{t("contact.website")}</dt>
             <dd>
               <a href={profile.website} className="ltr">
-                srezadev.ir
+                sSalehdev.ir
               </a>
             </dd>
           </div>

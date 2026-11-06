@@ -187,7 +187,7 @@ const uptimeText = (startedAt) => {
 };
 
 const cow = (msg) => {
-  const t = msg || "Moo. Hire Reza.";
+  const t = msg || "Moo. Hire Saleh.";
   const border = "-".repeat(t.length + 2);
   return [
     ` ${"_".repeat(t.length + 2)}`,
@@ -750,7 +750,7 @@ export const COMMANDS = {
         node = getNode(session.fs, p);
         if (node?.project) break;
       }
-      const source = node?.project ? node.source : "https://github.com/Rezaabdollahi7/portfolio";
+      const source = node?.project ? node.source : "https://github.com/SalehGhaznavi7/portfolio";
       const sub = args[0];
       if (sub === "status")
         return ok([line("On branch main"), line("nothing to commit, working tree clean")]);
@@ -839,14 +839,14 @@ export const COMMANDS = {
         line(span(`${USER}@${HOSTNAME}`, "t-green")),
         line(span("─".repeat(`${USER}@${HOSTNAME}`.length), "t-muted")),
         row("OS", "PortfolioOS 2.0 (macOS edition)"),
-        row("Host", "srezadev.ir"),
+        row("Host", "sSalehdev.ir"),
         row("Kernel", "React 19 · Vite 7"),
         row("Uptime", uptimeText(session.startedAt)),
         row("Shell", `zsh (simulated) · ${Object.keys(COMMANDS).length} commands`),
         row("Resolution", `${window.innerWidth}x${window.innerHeight}`),
         row("Theme", io.isDark() ? "Dark" : "Light"),
         row("Terminal Font", "Geist Mono"),
-        row("CPU", "Reza (1 core, coffee-cooled)"),
+        row("CPU", "Saleh (1 core, coffee-cooled)"),
         row("Role", `${profile.role}, ${profile.location}`),
         row("Stack", "React, Next.js, TypeScript, Node.js"),
         row("Projects", `${projects.length} featured · cd ~/projects`),

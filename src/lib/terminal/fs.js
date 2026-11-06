@@ -13,8 +13,8 @@ import {
   trashedProjects,
 } from "#constants";
 
-export const HOME = "/home/reza";
-export const USER = "reza";
+export const HOME = "/home/Saleh";
+export const USER = "Saleh";
 export const HOSTNAME = "portfolio";
 
 const BOOT = new Date(2026, 9, 14, 9, 41);
@@ -150,7 +150,7 @@ const zshrc = [
 export const buildFs = (commandNames = []) =>
   dir({
     home: dir({
-      reza: dir(
+      Saleh: dir(
         {
           "about.md": file(about),
           "contact.txt": file(contact),
@@ -218,7 +218,7 @@ export const buildFs = (commandNames = []) =>
       hostname: file(`${HOSTNAME}\n`),
       motd: file(`${funFacts[0]}\n`),
       "os-release": file(
-        'NAME="PortfolioOS"\nVERSION="2.0"\nID=portfolio\nPRETTY_NAME="PortfolioOS 2.0 (React 19)"\nHOME_URL="https://srezadev.ir"\n',
+        'NAME="PortfolioOS"\nVERSION="2.0"\nID=portfolio\nPRETTY_NAME="PortfolioOS 2.0 (React 19)"\nHOME_URL="https://sSalehdev.ir"\n',
       ),
       shells: file("/bin/zsh\n"),
     }),

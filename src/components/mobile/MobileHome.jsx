@@ -142,7 +142,7 @@ const MobileHome = () => {
             <span className="ios-profile-top">
               <img
                 className="contact-avatar is-small"
-                src="/images/profile/reza-128.webp"
+                src="/images/profile/Saleh-128.webp"
                 alt=""
                 width="46"
                 height="46"

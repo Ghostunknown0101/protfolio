@@ -6,7 +6,7 @@ import { safeStorage } from "./storage";
 // - recent commits from GitHub's commit search, falling back to push events.
 // Responses are cached in localStorage; a stale copy beats an empty widget.
 
-export const GITHUB_USER = "Rezaabdollahi7";
+export const GITHUB_USER = "SalehGhaznavi7";
 export const GITHUB_URL = `https://github.com/${GITHUB_USER}`;
 
 const CONTRIB_URL = `https://github-contributions-api.jogruber.de/v4/${GITHUB_USER}?y=last`;

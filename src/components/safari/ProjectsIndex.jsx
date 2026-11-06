@@ -71,7 +71,7 @@ const ProjectsIndex = ({ onOpen }) => {
         </ul>
         <a
           className="github-cta"
-          href="https://github.com/Rezaabdollahi7?tab=repositories"
+          href="https://github.com/SalehGhaznavi7?tab=repositories"
           target="_blank"
           rel="noopener noreferrer"
         >

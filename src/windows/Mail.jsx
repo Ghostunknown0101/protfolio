@@ -194,7 +194,7 @@ const Mail = () => {
           <div className="mail-row">
             <span className="mail-label">{t("mail.to")}</span>
             <span className="mail-chip">
-              <img className="mail-chip-avatar" src="/images/profile/reza-128.webp" alt="" width="22" height="22" />
+              <img className="mail-chip-avatar" src="/images/profile/Saleh-128.webp" alt="" width="22" height="22" />
               {profile.name}
               <span className="mail-chip-email ltr">&lt;{profile.email}&gt;</span>
             </span>

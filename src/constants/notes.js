@@ -42,8 +42,8 @@ export const notes = [
       {
         type: "ul",
         items: [
-          "[GitHub](https://github.com/Rezaabdollahi7)",
-          "[Telegram](https://t.me/rezaabdollahi7)",
+          "[GitHub](https://github.com/SalehGhaznavi7)",
+          "[Telegram](https://t.me/SalehGhaznavi7)",
           `[${profile.email}](mailto:${profile.email})`,
         ],
       },
@@ -73,7 +73,7 @@ export const notes = [
       { type: "h2", text: "Finora" },
       {
         type: "p",
-        text: "A household finance manager you host yourself with one docker compose up. Balances come from transactions, never typed in. [Case study](app:safari/finora) · [Source](https://github.com/Rezaabdollahi7/Finora)",
+        text: "A household finance manager you host yourself with one docker compose up. Balances come from transactions, never typed in. [Case study](app:safari/finora) · [Source](https://github.com/SalehGhaznavi7/Finora)",
       },
       { type: "h2", text: "everything else" },
       {
@@ -176,8 +176,8 @@ export const notesFa = [
       {
         type: "ul",
         items: [
-          "[گیت‌هاب](https://github.com/Rezaabdollahi7)",
-          "[تلگرام](https://t.me/rezaabdollahi7)",
+          "[گیت‌هاب](https://github.com/SalehGhaznavi7)",
+          "[تلگرام](https://t.me/SalehGhaznavi7)",
           `[${profile.email}](mailto:${profile.email})`,
         ],
       },
@@ -207,7 +207,7 @@ export const notesFa = [
       { type: "h2", text: "Finora" },
       {
         type: "p",
-        text: "برنامه مدیریت مالی خانواده که با یک docker compose up روی سرور خودتان بالا می‌آید. موجودی‌ها از روی تراکنش‌ها محاسبه می‌شوند، نه دستی. [مطالعه موردی](app:safari/finora) · [سورس کد](https://github.com/Rezaabdollahi7/Finora)",
+        text: "برنامه مدیریت مالی خانواده که با یک docker compose up روی سرور خودتان بالا می‌آید. موجودی‌ها از روی تراکنش‌ها محاسبه می‌شوند، نه دستی. [مطالعه موردی](app:safari/finora) · [سورس کد](https://github.com/SalehGhaznavi7/Finora)",
       },
       { type: "h2", text: "بقیه کارها" },
       {

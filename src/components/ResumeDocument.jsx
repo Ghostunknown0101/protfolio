@@ -19,7 +19,7 @@ const PROJECTS = [
   },
   {
     title: "Finora",
-    link: "github.com/Rezaabdollahi7/Finora",
+    link: "github.com/SalehGhaznavi7/Finora",
     kind: "Open-source product",
     year: "2026",
     summary:
@@ -32,7 +32,7 @@ const PROJECTS = [
   },
   {
     title: "Secure Assessment Dashboard",
-    link: "github.com/Rezaabdollahi7/Multi-Tenant-Assessment",
+    link: "github.com/SalehGhaznavi7/Multi-Tenant-Assessment",
     kind: "Full-stack app",
     year: "2026",
     summary:
@@ -96,10 +96,10 @@ const ResumeDocument = () => {
             <a href={profile.phoneHref}>{profile.phone}</a>
           </li>
           <li>
-            <a href={profile.website}>srezadev.ir</a>
+            <a href={profile.website}>sSalehdev.ir</a>
           </li>
           <li>
-            <a href={github.href}>github.com/Rezaabdollahi7</a>
+            <a href={github.href}>github.com/SalehGhaznavi7</a>
           </li>
         </ul>
       </div>

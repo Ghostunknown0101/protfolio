@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://srezadev.ir/sitemap.xml
+Sitemap: https://sSalehdev.ir/sitemap.xml

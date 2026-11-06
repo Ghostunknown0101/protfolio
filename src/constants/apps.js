@@ -76,14 +76,14 @@ export const apps = [
     id: "github",
     name: "GitHub",
     icon: "/images/github.webp",
-    href: "https://github.com/Rezaabdollahi7",
+    href: "https://github.com/SalehGhaznavi7",
     keywords: "source repositories code",
   },
   {
     id: "telegram",
     name: "Telegram",
     icon: "/images/telegram.png",
-    href: "https://t.me/rezaabdollahi7",
+    href: "https://t.me/SalehGhaznavi7",
     keywords: "message chat",
   },
   {

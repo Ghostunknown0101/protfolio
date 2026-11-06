@@ -140,12 +140,12 @@ const Settings = () => {
               <dt>{t("settings.source")}</dt>
               <dd>
                 <a
-                  href="https://github.com/Rezaabdollahi7/portfolio"
+                  href="https://github.com/SalehGhaznavi7/portfolio"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-link ltr"
                 >
-                  github.com/Rezaabdollahi7/portfolio
+                  github.com/SalehGhaznavi7/portfolio
                   <ArrowUpRight aria-hidden="true" className="inline size-3.5" />
                 </a>
               </dd>

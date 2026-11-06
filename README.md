@@ -2,7 +2,7 @@
 
 # macOS Portfolio
 
-### Reza Abdollahi's portfolio, built as a desktop you can explore
+### Saleh Ghaznavi's portfolio, built as a desktop you can explore
 
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7-646cff?logo=vite)](https://vitejs.dev/)
@@ -10,7 +10,7 @@
 [![GSAP](https://img.shields.io/badge/GSAP-3-88ce02?logo=greensock)](https://gsap.com/)
 [![Zustand](https://img.shields.io/badge/Zustand-5-orange)](https://zustand-demo.pmnd.rs/)
 
-[Live site](https://srezadev.ir) · [نسخه فارسی](https://srezadev.ir/fa/) · [Resume (PDF)](https://srezadev.ir/files/reza-abdollahi-resume.pdf)
+[Live site](https://sSalehdev.ir) · [نسخه فارسی](https://sSalehdev.ir/fa/) · [Resume (PDF)](https://sSalehdev.ir/files/Saleh-Ghaznavi-resume.pdf)
 
 <img src="public/images/projects/Portfolio/desktop.webp" alt="Desktop with widgets, folders and dock" width="100%" />
 
@@ -25,13 +25,13 @@ the same apps open from an iOS-style home screen as full-screen sheets.
 Every app shows a different side of my work, and every piece of content comes
 from one set of data files, so projects, notes, the terminal, Spotlight and the
 resume never drift apart. The whole site also exists in Persian, right-to-left
-with the Jalali calendar, at [`/fa/`](https://srezadev.ir/fa/).
+with the Jalali calendar, at [`/fa/`](https://sSalehdev.ir/fa/).
 
 ## Apps
 
 | App | What it does |
 | --- | --- |
-| **Projects** (Safari) | Case studies for each project with tabs, back/forward history, filters, screenshots and a lightbox. Pages are deep-linkable: `srezadev.ir/#/projects/dofixo` |
+| **Projects** (Safari) | Case studies for each project with tabs, back/forward history, filters, screenshots and a lightbox. Pages are deep-linkable: `sSalehdev.ir/#/projects/dofixo` |
 | **Notes** | The "about me", what I'm building, my stack and the site roadmap, in an Apple Notes layout with search |
 | **Terminal** | A zsh-like shell over a virtual filesystem built from the site's data: `ls -la`, `cd dofixo`, `cat README.md`, `tree`, `find`, `grep -rn`, `open .`, pipes, `&&`, `>` redirects, globs, Tab completion, history and `neofetch` |
 | **Finder** | Every project as a folder with its write-up, links and screenshots. An old university experiment lives in the Trash |
@@ -70,13 +70,13 @@ activity** (the contribution graph and my latest commits).
 | Project | What it is |
 | --- | --- |
 | [Dofixo](https://dofixo.ir) | Multi-tenant SaaS for repair workshops: React 19, Node.js, PostgreSQL with row-level security, Prisma |
-| [Finora](https://github.com/Rezaabdollahi7/Finora) | Self-hosted, Persian-first household finance manager: Next.js, Prisma, PostgreSQL, Three.js |
-| [Secure Assessment Dashboard](https://github.com/Rezaabdollahi7/Multi-Tenant-Assessment) | Multi-tenant, role-based security findings tracker: NestJS, PostgreSQL, Redis, Next.js 16 |
+| [Finora](https://github.com/SalehGhaznavi7/Finora) | Self-hosted, Persian-first household finance manager: Next.js, Prisma, PostgreSQL, Three.js |
+| [Secure Assessment Dashboard](https://github.com/SalehGhaznavi7/Multi-Tenant-Assessment) | Multi-tenant, role-based security findings tracker: NestJS, PostgreSQL, Redis, Next.js 16 |
 | [NextApps](https://nextapps.ir) | The digital product studio I founded: Next.js, TypeScript |
 | [SieManage](https://siemanage.com) | Real-time task management for teams: React, Express, PostgreSQL, Socket.io |
 | [Siemenspart](https://siemenspart-landing.vercel.app) | Catalogue site for industrial CNC parts: Astro, React, Fuse.js |
-| [DashStack](https://github.com/Rezaabdollahi7/DashStack) | Open-source admin dashboard template: React, Material UI, Tailwind CSS 4 |
-| [Maliko](https://github.com/Rezaabdollahi7/maliko-landing) | Landing page for an SMS-powered finance app: Next.js, GSAP, Lottie |
+| [DashStack](https://github.com/SalehGhaznavi7/DashStack) | Open-source admin dashboard template: React, Material UI, Tailwind CSS 4 |
+| [Maliko](https://github.com/SalehGhaznavi7/maliko-landing) | Landing page for an SMS-powered finance app: Next.js, GSAP, Lottie |
 
 ## How it works
 
@@ -173,7 +173,7 @@ with the message filled in.
   (each has a Persian version next to the English one)
 - Interface strings in both languages: `src/i18n/ui.js`
 - Resume: built from the same data in `src/components/ResumeDocument.jsx`. After
-  editing, regenerate `public/files/reza-abdollahi-resume.pdf` by printing the
+  editing, regenerate `public/files/Saleh-Ghaznavi-resume.pdf` by printing the
   Resume window to PDF (A4).
 
 ### Fonts

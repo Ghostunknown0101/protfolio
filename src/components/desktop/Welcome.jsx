@@ -83,7 +83,7 @@ const Welcome = () => {
     <section ref={rootRef} className="welcome" aria-labelledby="welcome-title">
       <img
         className="welcome-photo"
-        src="/images/profile/reza-256.webp"
+        src="/images/profile/Saleh-256.webp"
         alt=""
         width="88"
         height="88"

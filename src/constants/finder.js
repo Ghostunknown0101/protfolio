@@ -137,7 +137,7 @@ export const buildLocations = ({ profile, projects, archive, trashedProjects }, 
         },
         {
           id: "about-contact",
-          name: "reza.vcf",
+          name: "Saleh.vcf",
           kind: "file",
           fileType: "app",
           icon: "/images/contact.webp",

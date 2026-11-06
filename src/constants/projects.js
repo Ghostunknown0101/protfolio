@@ -1,8 +1,8 @@
-// Projects, curated from github.com/Rezaabdollahi7.
+// Projects, curated from github.com/SalehGhaznavi7.
 // Featured = what I'd show first. Archive = older work that still runs.
 // An old university experiment (DFA minimisation) lives in the Trash.
 
-const GH = "https://github.com/Rezaabdollahi7";
+const GH = "https://github.com/SalehGhaznavi7";
 
 export const projectCategories = [
   { id: "all", label: "All" },
@@ -524,7 +524,7 @@ export const projects = [
     ],
     stack: ["React 19", "Vite", "Tailwind CSS 4", "GSAP", "Zustand"],
     links: [
-      { label: "srezadev.ir", href: "https://srezadev.ir", kind: "live" },
+      { label: "sSalehdev.ir", href: "https://sSalehdev.ir", kind: "live" },
       { label: "Source", href: `${GH}/portfolio`, kind: "source" },
     ],
     screenshots: [

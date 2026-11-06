@@ -19,7 +19,7 @@ import { useContent } from "../i18n/content";
 import { useLocale, useT } from "../i18n";
 import { useBackLayer } from "../hooks/useBackLayer";
 
-const HOST = "srezadev.ir";
+const HOST = "sSalehdev.ir";
 const INDEX = { type: "index" };
 
 const pagePath = (page) =>
