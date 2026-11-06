@@ -8,9 +8,9 @@ const META = {
       "Reza Abdollahi is a full-stack software engineer in Tehran and founder of NextApps, building practical, scalable products with React, Next.js, TypeScript and Node.js. Explore projects like Dofixo and Finora in a macOS-style portfolio.",
   },
   fa: {
-    title: "صالح عبداللهی · مهندس نرم‌افزار",
+    title: "صالح غزنوی · مهندس نرم‌افزار",
     description:
-      "صالح عبداللهی، مهندس نرم‌افزار فول‌استک در تهران و بنیان‌گذار NextApps. محصولات نرم‌افزاری کاربردی و مقیاس‌پذیر با React، Next.js، TypeScript و Node.js می‌سازد. پروژه‌هایی مثل دوفیکسو و Finora را در پورتفولیویی به سبک macOS ببینید.",
+      "صالح غزنوی، مهندس نرم‌افزار فول‌استک در تهران و بنیان‌گذار NextApps. محصولات نرم‌افزاری کاربردی و مقیاس‌پذیر با React، Next.js، TypeScript و Node.js می‌سازد. پروژه‌هایی مثل دوفیکسو و Finora را در پورتفولیویی به سبک macOS ببینید.",
   },
 };
 

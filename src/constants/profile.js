@@ -36,7 +36,7 @@ export const profile = {
 
 // Persian overrides, merged over `profile` when the site is in Persian.
 export const profileFa = {
-  name: "صالح عبداللهی",
+  name: "صالح غزنوی",
   firstName: "صالح",
   role: "مهندس نرم‌افزار",
   headline: "مهندس نرم‌افزار | توسعه فول‌استک و ساخت محصول",
