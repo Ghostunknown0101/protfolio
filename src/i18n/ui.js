@@ -357,7 +357,7 @@ export const ui = {
     "menu.resume": "رزومه",
     "menu.contact": "تماس",
     "menu.appleMenu": "منوی اپل",
-    "menu.aboutReza": "درباره رضا",
+    "menu.aboutReza": "درباره صالح",
     "menu.settings": "تنظیمات سیستم…",
     "menu.lightMode": "حالت روشن",
     "menu.darkMode": "حالت تیره",

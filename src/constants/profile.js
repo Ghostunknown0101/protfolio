@@ -2,10 +2,10 @@
 // Everything else (Notes, Contact, Terminal, Resume, meta tags) reads from here.
 
 export const profile = {
-  name: "Reza Abdollahi",
-  firstName: "Reza",
-  initials: "RA",
-  photo: "/images/profile/reza.webp",
+  name: "Saleh Ghaznavi",
+  firstName: "Saleh",
+  initials: "SA",
+  photo: "/images/profile/salehphoto.webp",
   role: "Software Engineer",
   headline: "Software Engineer | Full-stack & Product Development",
   location: "Tehran, Iran",
@@ -36,8 +36,8 @@ export const profile = {
 
 // Persian overrides, merged over `profile` when the site is in Persian.
 export const profileFa = {
-  name: "رضا عبداللهی",
-  firstName: "رضا",
+  name: "صالح عبداللهی",
+  firstName: "صالح",
   role: "مهندس نرم‌افزار",
   headline: "مهندس نرم‌افزار | توسعه فول‌استک و ساخت محصول",
   location: "تهران، ایران",
